@@ -21,7 +21,8 @@ public class StableMarriage {
 	
 	/** MAIN method.  Runs the Stable marriage algorithm on the
 	  * list of MEN and the list of WOMAN.  Terminates when a stable mathcing is found */
-	public runAlgorithm(){
+	public void runAlgorithm(){
+		/** Run the algorithm*/
 		
 	}
 }
