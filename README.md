@@ -18,9 +18,4 @@ Current working implimentations:
 			
 				(i) Newtons Method:
 						Finds x-axis intersections
-						
-				(ii) Lagrange Interpolation:
-						 Given a set of points, finds a Lagrange Polynomial
 				
-				(iii) Runge Kutta:
-							Solves a differential equation using Runge-Kutta method
