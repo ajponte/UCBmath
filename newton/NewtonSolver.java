@@ -48,10 +48,19 @@ public class NewtonSolver {
 		return p;
 	}
 	
+	/** THIS Polynomial.*/
 	private Polynomial _poly;
+	
+	/** The derivative of THIS Polynomial.*/
 	private Polynomial _df;
+	
+	/** The initial guess.*/
 	private double _guess;
+	
+	/** The allowable tolerance.*/
 	private double _tol;
+	
+	/** The maximum amount of iterations.*/
 	private int _maxIter;
 
 }
